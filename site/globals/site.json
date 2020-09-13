@@ -1,11 +1,11 @@
 {
-    "name": "Skeleventy",
-    "url": "https://skeleventy.netlify.app",
+    "name": "Zeljko Is Doing Software Development In Chicago Blog",
+    "url": "https://zeljko-blog.netlify.app",
     "author": {
-        "name": "Max Power",
-        "email": "hello@maxpower.com",
-        "handle": "@maxpower",
-        "avatar": "/images/blog/author.jpg"
+        "name": "Zeljko Dakic",
+        "email": "zeljko@dakic.com",
+        "handle": "@desireco",
+        "avatar": "/images/blog/super_zeljko.jpg"
     },
     "images": {
         "logo": "/images/logo/logo.svg",
@@ -14,9 +14,9 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "facebook": "https://www.facebook.com",
-        "twitter": "https://twitter.com/joe_dyer1",
-        "linkedin": "https://www.linkedin.com"
+        "twitter": "https://twitter.com/desireco",
+        "linkedin": "https://www.linkedin.com/in/zeljkodakic",
+        "github": "https://github.com/desireco"
     },
     "address": {
         "street": "123 Fake Street",
